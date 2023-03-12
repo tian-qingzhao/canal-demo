@@ -1,6 +1,6 @@
 # 修改mysql配置
 
-#### 1.找到mysql的安装路径， window系统路径：C:\ProgramData\MySQL\MySQL Server 5.7， 打开my.ini文件，添加如下配置
+#### 1.找到mysql的安装路径， windows系统路径：C:\ProgramData\MySQL\MySQL Server 5.7，linux路径默认：/etc/my.cnf。这里我本次测试使用的windows，打开my.ini文件，添加如下配置
 
 ```shell
 # 开启mysql的bin-log
